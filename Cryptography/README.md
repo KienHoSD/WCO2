@@ -1,6 +1,6 @@
 ## Cryptography
 ### All about Cryptography, sorted by order for easier to learn
-1. Introduction to Cryptography [powerpoint](https://github.com/KienHoSD/WCO2/blob/93c982e788cf62563541a8eee0d98b922cf48c04/Cryptography/1_Introduction/crypto_roadmap.pptx)
+1. Short introduction to Cryptography [pdf](https://github.com/KienHoSD/WCO2/blob/main/Cryptography/1_Introduction/crypto_roadmap.pdf)
 2. Math in Cryptography [notion@giapppp](https://giapppp.notion.site/Mathematic-in-Cryptography-01a27fda51a943d2b04fbe840e5dd26b)
 3. RSA Algorithm [notion@giapppp](https://giapppp.notion.site/Mathematic-in-Cryptography-01a27fda51a943d2b04fbe840e5dd26b)
 4. Symmetric Key Cryptography [hackmd@bilapro546](https://hackmd.io/@bilapro546/BJE-kYpyA)
