@@ -2,7 +2,7 @@
 Repository stored some documents and guide for CTF beginners from UIT Inseclab Wicked Crown Operation 2
 
 ## Cryptography
-### All about Cryptography, sorted by order for easier to learn
+### Mainly about Cryptography, sorted by order for easier to learn
 1. Short introduction to Cryptography [pdf](https://github.com/KienHoSD/WCO2/blob/main/Cryptography/1_Introduction/crypto_roadmap.pdf)
 2. Math in Cryptography [notion@giapppp](https://giapppp.notion.site/Mathematic-in-Cryptography-01a27fda51a943d2b04fbe840e5dd26b)
 3. RSA Algorithm [notion@giapppp](https://giapppp.notion.site/Mathematic-in-Cryptography-01a27fda51a943d2b04fbe840e5dd26b)
