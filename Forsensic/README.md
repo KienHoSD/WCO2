@@ -1,3 +1,3 @@
 ## Forensics
 ### Forensic introduction
-* Introduction to Forensics [link](https://wannaw1n-forensics.gitbook.io/menu)
+* Introduction to Forensics [wannaw1n-forensics](https://wannaw1n-forensics.gitbook.io/menu)
